@@ -1,0 +1,117 @@
+[
+    {
+        "questions": "**1. Which part of the flower produces pollen grains?**",
+        "options": [
+            "(A) Pistil",
+            "(B) Stamen",
+            "(C) Petal",
+            "(D) Sepal",
+            "(E) Ovary"
+        ],
+        "answer": "(E) Ovary"
+    },
+    {
+        "questions": "",
+        "options": [
+            "(A) Stamen",
+            "(B) Pistil",
+            "(C) Petal",
+            "(D) Sepal"
+        ],
+        "answer": "(D) Sepal"
+    },
+    {
+        "questions": "**Answer: B**",
+        "options": [
+            "(A) Actinomophic",
+            "(B) Zygomorphic",
+            "(C) Asymmetrical"
+        ],
+        "answer": "(C) Asymmetrical"
+    },
+    {
+        "questions": "(E) Monosymmetric",
+        "options": [
+            "(E) Monosymmetric",
+            "(A) Protection of the flower bud",
+            "(B) Production of pollen"
+        ],
+        "answer": "(B) Production of pollen"
+    },
+    {
+        "questions": "(D) Formation of seeds",
+        "options": [
+            "(D) Formation of seeds",
+            "(E) Support of the flower",
+            "(A) Cross-pollination"
+        ],
+        "answer": "(A) Cross-pollination"
+    },
+    {
+        "questions": "(C) Wind-pollination",
+        "options": [
+            "(C) Wind-pollination",
+            "(D) Insect-pollination",
+            "(E) Water-pollination"
+        ],
+        "answer": "**6. What is the primary function of petals?**"
+    },
+    {
+        "questions": "(B) Attraction of pollinators",
+        "options": [
+            "(B) Attraction of pollinators",
+            "(C) Production of seeds",
+            "(D) Photosynthesis",
+            "(E) Water absorption"
+        ],
+        "answer": ""
+    },
+    {
+        "questions": "(A) Rose",
+        "options": [
+            "(A) Rose",
+            "(B) Orchid",
+            "(C) Grass",
+            "(D) Sunflower",
+            "(E) Lily"
+        ],
+        "answer": "**Answer: C**"
+    },
+    {
+        "questions": "**8. What is the process by which a pollen tube grows from the pollen grain to the ovule?**",
+        "options": [
+            "(A) Fertilization",
+            "(B) Pollination",
+            "(C) Germination",
+            "(D) Maturation",
+            "(E) Dehiscence"
+        ],
+        "answer": "(E) Dehiscence"
+    },
+    {
+        "questions": "",
+        "options": [
+            "(A) Ovary",
+            "(B) Stamen",
+            "(C) Petal",
+            "(D) Sepal"
+        ],
+        "answer": "(D) Sepal"
+    },
+    {
+        "questions": "**Answer: A**",
+        "options": [
+            "(A) To support the stigma",
+            "(B) To produce nectar",
+            "(C) To transfer pollen"
+        ],
+        "answer": "(C) To transfer pollen"
+    },
+    {
+        "questions": "(E) To attract pollinators",
+        "options": [
+            "(E) To attract pollinators"
+        ],
+        "answer": "**Answer: A**"
+    }
+]
