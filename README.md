@@ -1,4 +1,4 @@
-﻿# CogniCraft
+﻿# QUIZ GENERATION API
 
 <h3>AI BACKEND</h3>
 
